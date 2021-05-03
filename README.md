@@ -9,3 +9,5 @@ You can use this component to receive:
 - Depth data and point cloud data
 - Human body segmentation mask
 - Values of buttons and knobs
+
+(Still rough)
