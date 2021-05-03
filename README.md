@@ -1,6 +1,11 @@
-# TD-Components-Git-Template
-A Git repository template for TouchDesigner Components.
+# TD-Rcam2TD
 
-Mainly add the .gitignore file for TD, add the auto delete icon function and help module in the template .toe file.
+Receive @keijiro 's [Rcam2](https://github.com/keijiro/Rcam2) (part of RcamController) in TouchDesigner
 
-[TouchDesigner]: http://www.derivative.ca/
+![](img/screen.png)
+
+You can use this component to receive:
+- Camera pose and camera matrix
+- Depth data and point cloud data
+- Human body segmentation mask
+- Values of buttons and knobs
