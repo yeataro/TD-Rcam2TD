@@ -1,6 +1,6 @@
 # TD-Rcam2TD
 
-Receive @keijiro 's [Rcam2](https://github.com/keijiro/Rcam2) (part of RcamController) in TouchDesigner
+Receive @keijiro's [Rcam2](https://github.com/keijiro/Rcam2) (part of RcamController) data in TouchDesigner via NDI.
 
 ![](img/screen.png)
 
